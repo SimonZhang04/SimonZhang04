@@ -1,6 +1,6 @@
-### Hello! 😄
+### Hello! 👋
 
-I'm a grade 11 student at Agincourt Collegiate Institute. 
+I'm Simon. I have a passion for science, math, and technology!
 
 * 📱 Currently learning app development with Android Studio in Kotlin
 * 💻 Experience with Java, Python, React, Kotlin, HTML/CSS

@@ -7,4 +7,4 @@ I'm Simon. I have a passion for environmental sustainability, video games, and p
 * 😮 Looking to get into machine learning, Raspberry Pi projects, and Unity
 * 🖌️ Enjoy sketching and doing digital art
 
-[Check out my website!](https://simonzhang04.github.io/) (WIP)
+[Check out my website!](https://simonzhang04.github.io/)

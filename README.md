@@ -4,7 +4,7 @@ I'm Simon. I have a passion for environmental sustainability, video games, and p
 
 * :globe_with_meridians: Currently learning web development
 * 💻 Experience with Java, Python, React, Kotlin, HTML/CSS
-* 😮 Looking to get into machine learning, Raspberry Pi projects, and Unity
+* 😮 Looking to get into IOS app development, Raspberry Pi projects, and Unity
 * 🖌️ Enjoy sketching and doing digital art
 
 [Check out my website!](https://simonzhang04.github.io/)
